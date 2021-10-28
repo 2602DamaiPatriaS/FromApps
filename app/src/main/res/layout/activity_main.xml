@@ -17,7 +17,7 @@
         android:text="Silahkan anda isi form registrasi berikut!" />
 
     <EditText
-        android:id="@+id/idInputNama"
+        android:id="@+id/idInputName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Nama lengkap"
